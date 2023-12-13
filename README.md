@@ -1,2 +1,2 @@
 
-Created a responsive website using pure HTML, CSS, BOOTSTRAP and JAVASCRIPT.
+Created a responsive website using pure HTML, CSS, JAVASCRIPT and BOOTSTRAP.
